@@ -28,6 +28,7 @@ jobs:
         run: node scripts/build.mjs
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           DEEPL_KEY: ${{ secrets.DEEPL_KEY }}
           SITE_DOMAIN: ${{ vars.SITE_DOMAIN }}
       - uses: actions/configure-pages@v5

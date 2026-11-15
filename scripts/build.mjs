@@ -5,7 +5,7 @@ import path from 'node:path';
 import { findDatabase, queryAll, updatePage } from '../src/notion.mjs';
 import { fromNotion, fromSeed, fingerprint, LANGS } from '../src/model.mjs';
 import { richToHtml, plain } from '../src/richtext.mjs';
-import { hasDeepL, translateRich } from '../src/translate.mjs';
+import { hasDeepL, translateRich, translatorName } from '../src/translate.mjs';
 
 const LOCAL = process.argv.includes('--local');
 const ROOT = new URL('..', import.meta.url).pathname;
@@ -34,8 +34,8 @@ for (const row of rows) {
   if (!todo.length) continue;
   if (!hasDeepL() || LOCAL) {
     console.log(missing.length
-      ? `  ! ${row.slug} : traduction ${missing.join('/')} manquante (pas de clé DeepL), le français est affiché à la place`
-      : `  · ${row.slug} : le français a changé, l'allemand et l'anglais seront retraduits quand la clé DeepL sera ajoutée`);
+      ? `  ! ${row.slug} : traduction ${missing.join('/')} manquante (pas de clé de traduction), le français est affiché à la place`
+      : `  · ${row.slug} : le français a changé, l'allemand et l'anglais seront retraduits quand une clé de traduction sera ajoutée`);
     continue;
   }
   const props = {};
@@ -47,7 +47,7 @@ for (const row of rows) {
   }
   props['Empreinte FR'] = { rich_text: [{ type: 'text', text: { content: fp } }] };
   await updatePage(row.id, props);
-  console.log(`  ~ ${row.slug} : traduit en ${todo.join('/')} et enregistré dans Notion`);
+  console.log(`  ~ ${row.slug} : traduit en ${todo.join('/')} par ${translatorName()} et enregistré dans Notion`);
 }
 
 // 3. Photos (Notion file links expire after an hour, so they are copied into the site)
