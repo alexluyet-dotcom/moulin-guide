@@ -1,0 +1,11 @@
+{
+  "name": "moulin-guide",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "build:local": "node scripts/build.mjs --local",
+    "seed": "node scripts/seed.mjs"
+  }
+}

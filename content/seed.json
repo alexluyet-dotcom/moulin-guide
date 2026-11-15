@@ -1,0 +1,446 @@
+[
+ {
+  "partie": "Accueil",
+  "ordre": 0,
+  "slug": "accueil",
+  "titre": {
+   "fr": "Bienvenue chez vous",
+   "de": "Willkommen bei uns",
+   "en": "Welcome home"
+  },
+  "texte": {
+   "fr": "Le Moulin 1771, c'est notre appartement de famille, au dernier étage d'un chalet construit en 1771 sur la place du vieux Grimentz. Nous l'avons entièrement rénové en 2026 et nous espérons que vous y passerez de beaux moments.\n\nVous trouverez ici tout ce qu'il faut pour votre séjour : le fonctionnement de l'appartement, puis nos adresses préférées dans le village. Nous restons volontiers à votre disposition.\n\n*Gaëlle et Alexandre*",
+   "de": "Le Moulin 1771 ist unsere Familienwohnung, im obersten Stock eines Chalets von 1771 am Dorfplatz des alten Grimentz. Wir haben sie 2026 komplett renoviert und wünschen Ihnen hier eine schöne Zeit.\n\nHier finden Sie alles für Ihren Aufenthalt: wie die Wohnung funktioniert und danach unsere Lieblingsadressen im Dorf. Bei Fragen sind wir gerne für Sie da.\n\n*Gaëlle und Alexandre*",
+   "en": "Le Moulin 1771 is our family apartment, on the top floor of a chalet built in 1771 on the square of old Grimentz. We fully renovated it in 2026 and hope you have a wonderful time here.\n\nHere you'll find everything for your stay: how the apartment works, then our favourite places in the village. We're always happy to help.\n\n*Gaëlle and Alexandre*"
+  }
+ },
+ {
+  "partie": "Essentiel",
+  "ordre": 1,
+  "slug": "arrivee",
+  "titre": {
+   "fr": "Arrivée",
+   "de": "Ankunft",
+   "en": "Check-in"
+  },
+  "texte": {
+   "fr": "dès **16:00**",
+   "de": "ab **16:00**",
+   "en": "from **16:00**"
+  }
+ },
+ {
+  "partie": "Essentiel",
+  "ordre": 2,
+  "slug": "depart",
+  "titre": {
+   "fr": "Départ",
+   "de": "Abreise",
+   "en": "Check-out"
+  },
+  "texte": {
+   "fr": "jusqu'à **10:00**",
+   "de": "bis **10:00**",
+   "en": "by **10:00**"
+  }
+ },
+ {
+  "partie": "Essentiel",
+  "ordre": 3,
+  "slug": "codes",
+  "large": true,
+  "titre": {
+   "fr": "Code de la boîte à clé et wifi",
+   "de": "Code des Schlüsselkastens und WLAN",
+   "en": "Key box code and wifi"
+  },
+  "texte": {
+   "fr": "Envoyés par message deux jours avant votre arrivée. Ils ne figurent pas sur cette page.",
+   "de": "Kommen zwei Tage vor Ihrer Ankunft per Nachricht. Sie stehen nicht auf dieser Seite.",
+   "en": "Sent by message two days before you arrive. They're not on this page."
+  }
+ },
+ {
+  "partie": "Essentiel",
+  "ordre": 4,
+  "slug": "adresse",
+  "titre": {
+   "fr": "Adresse",
+   "de": "Adresse",
+   "en": "Address"
+  },
+  "texte": {
+   "fr": "Rue du Village 74\n3961 Grimentz\n[Ouvrir dans Maps](https://maps.google.com/?q=Rue+du+Village+74,+3961+Grimentz)",
+   "de": "Rue du Village 74\n3961 Grimentz\n[In Maps öffnen](https://maps.google.com/?q=Rue+du+Village+74,+3961+Grimentz)",
+   "en": "Rue du Village 74\n3961 Grimentz\n[Open in Maps](https://maps.google.com/?q=Rue+du+Village+74,+3961+Grimentz)"
+  }
+ },
+ {
+  "partie": "Essentiel",
+  "ordre": 5,
+  "slug": "contact",
+  "titre": {
+   "fr": "Nous joindre",
+   "de": "Kontakt",
+   "en": "Reach us"
+  },
+  "texte": {
+   "fr": "Gaëlle\n[+41 78 652 24 35](tel:+41786522435)\nAlexandre\n[+41 79 464 89 60](tel:+41794648960)",
+   "de": "Gaëlle\n[+41 78 652 24 35](tel:+41786522435)\nAlexandre\n[+41 79 464 89 60](tel:+41794648960)",
+   "en": "Gaëlle\n[+41 78 652 24 35](tel:+41786522435)\nAlexandre\n[+41 79 464 89 60](tel:+41794648960)"
+  }
+ },
+ {
+  "partie": "Intro maison",
+  "ordre": 6,
+  "slug": "intro-maison",
+  "titre": {
+   "fr": "La maison",
+   "de": "Die Wohnung",
+   "en": "The apartment"
+  },
+  "texte": {
+   "fr": "Tout ce qu'il faut savoir sur place, de l'arrivée en voiture au départ.",
+   "de": "Alles, was Sie vor Ort wissen müssen, von der Anreise bis zur Abreise.",
+   "en": "Everything you need on site, from arriving by car to leaving."
+  }
+ },
+ {
+  "partie": "Intro Grimentz",
+  "ordre": 7,
+  "slug": "intro-grimentz",
+  "titre": {
+   "fr": "Grimentz",
+   "de": "Grimentz",
+   "en": "Grimentz"
+  },
+  "texte": {
+   "fr": "Ruelles fleuries de géraniums, mayens noircis par le soleil, raccards centenaires : Grimentz compte parmi les plus beaux villages de Suisse. L'appartement est en plein centre, idéal pour tout faire à pied.",
+   "de": "Gassen voller Geranien, sonnengeschwärzte Maiensässe, jahrhundertealte Speicher: Grimentz gehört zu den schönsten Dörfern der Schweiz. Die Wohnung liegt mitten im Zentrum, alles ist zu Fuss erreichbar.",
+   "en": "Lanes full of geraniums, sun-blackened mayens, centuries-old granaries: Grimentz is one of the most beautiful villages in Switzerland. The apartment is right in the centre, so everything is within walking distance."
+  }
+ },
+ {
+  "partie": "Maison",
+  "ordre": 8,
+  "slug": "acces",
+  "icone": "acces",
+  "nouveau": false,
+  "titre": {
+   "fr": "Accès en voiture",
+   "de": "Anreise mit dem Auto",
+   "en": "Arriving by car"
+  },
+  "texte": {
+   "fr": "Dans Grimentz, suivez la direction « Télécabine », passez devant le bâtiment du téléphérique, prenez la route qui bifurque à gauche, puis à droite après le pont. Vous arrivez derrière la maison, l'accès le plus simple.\n\nVous pouvez vous arrêter au bord de la route le temps de décharger vos bagages.",
+   "de": "Folgen Sie in Grimentz der Richtung « Télécabine », fahren Sie am Gebäude der Seilbahn vorbei, nehmen Sie die Strasse links und nach der Brücke rechts. So kommen Sie hinter das Haus, der einfachste Zugang.\n\nZum Ausladen können Sie kurz am Strassenrand halten.",
+   "en": "In Grimentz, follow the signs to « Télécabine », drive past the cable car building, take the road forking left, then turn right after the bridge. You'll arrive behind the house, the easiest access.\n\nYou can stop at the roadside for a few minutes to unload."
+  }
+ },
+ {
+  "partie": "Maison",
+  "ordre": 9,
+  "slug": "parking",
+  "icone": "parking",
+  "nouveau": false,
+  "titre": {
+   "fr": "Parking",
+   "de": "Parkieren",
+   "en": "Parking"
+  },
+  "texte": {
+   "fr": "Deux parkings publics longue durée se trouvent à 2 et 5 minutes à pied : CHF 5.- par jour en été, CHF 10.- par jour en hiver. D'autres parkings payants proches ont des bornes de recharge pour voitures électriques.\n\n[Plan des parkings de Grimentz (PDF)](https://static.mycity.travel/manage/uploads/9/76/445528/1/parkings-grimentz.pdf)",
+   "de": "Zwei öffentliche Langzeitparkplätze liegen 2 und 5 Minuten zu Fuss entfernt: CHF 5.- pro Tag im Sommer, CHF 10.- pro Tag im Winter. Weitere kostenpflichtige Parkplätze in der Nähe haben Ladestationen für Elektroautos.\n\n[Parkplan von Grimentz (PDF)](https://static.mycity.travel/manage/uploads/9/76/445528/1/parkings-grimentz.pdf)",
+   "en": "Two public long-term car parks are 2 and 5 minutes' walk away: CHF 5.- per day in summer, CHF 10.- per day in winter. Other paid car parks nearby have charging points for electric cars.\n\n[Grimentz car park map (PDF)](https://static.mycity.travel/manage/uploads/9/76/445528/1/parkings-grimentz.pdf)"
+  }
+ },
+ {
+  "partie": "Maison",
+  "ordre": 10,
+  "slug": "bus",
+  "icone": "bus",
+  "nouveau": false,
+  "titre": {
+   "fr": "Transports publics",
+   "de": "Öffentlicher Verkehr",
+   "en": "Public transport"
+  },
+  "texte": {
+   "fr": "Deux arrêts CarPostal tout près : Place du Mélèze (150 m, 3 minutes en montée) et Télécabine (350 m, 4 minutes à plat).\n\nEn hiver, les navettes entre les villages et les stations du Val d'Anniviers sont gratuites : pratique pour rejoindre Grimentz-Zinal ou St-Luc/Chandolin.",
+   "de": "Zwei PostAuto-Haltestellen ganz in der Nähe: Place du Mélèze (150 m, 3 Minuten bergauf) und Télécabine (350 m, 4 Minuten flach).\n\nIm Winter sind die Shuttlebusse zwischen den Dörfern und Skigebieten des Val d'Anniviers gratis: ideal für Grimentz-Zinal oder St-Luc/Chandolin.",
+   "en": "Two PostBus stops close by: Place du Mélèze (150 m, 3 minutes uphill) and Télécabine (350 m, 4 minutes on the flat).\n\nIn winter, the shuttles between the villages and ski areas of the Val d'Anniviers are free: handy for Grimentz-Zinal or St-Luc/Chandolin."
+  }
+ },
+ {
+  "partie": "Maison",
+  "ordre": 11,
+  "slug": "cle",
+  "icone": "cle",
+  "nouveau": false,
+  "titre": {
+   "fr": "Boîte à clé",
+   "de": "Schlüsselkasten",
+   "en": "Key box"
+  },
+  "texte": {
+   "fr": "La boîte à clé est fixée contre le mur, à droite sur le balcon. Le code vous est envoyé par message deux jours avant votre arrivée.",
+   "de": "Der Schlüsselkasten hängt rechts an der Wand auf dem Balkon. Den Code erhalten Sie zwei Tage vor Ihrer Ankunft per Nachricht.",
+   "en": "The key box is on the wall to the right on the balcony. We'll send you the code by message two days before you arrive."
+  }
+ },
+ {
+  "partie": "Maison",
+  "ordre": 12,
+  "slug": "cuisine",
+  "icone": "cuisine",
+  "nouveau": false,
+  "titre": {
+   "fr": "Cuisine",
+   "de": "Küche",
+   "en": "Kitchen"
+  },
+  "texte": {
+   "fr": "La cuisine est entièrement équipée : four, plaques, lave-vaisselle, machine à café Dolce Gusto, bouilloire, et le service à fondue et à raclette pour la première soirée. Vous trouverez de l'huile, du vinaigre, du sel, du poivre, du café et du thé.\n\nLes casseroles sont dans le tiroir sous le four. Merci de laver la vaisselle avant de partir.\n\n*Le coucou sonne toutes les heures.*",
+   "de": "Die Küche ist komplett ausgestattet: Backofen, Kochfeld, Geschirrspüler, Dolce-Gusto-Kaffeemaschine, Wasserkocher und das Fondue- und Raclette-Set für den ersten Abend. Öl, Essig, Salz, Pfeffer, Kaffee und Tee sind da.\n\nDie Pfannen sind in der Schublade unter dem Backofen. Bitte spülen Sie das Geschirr vor der Abreise.\n\n*Die Kuckucksuhr schlägt zu jeder vollen Stunde.*",
+   "en": "The kitchen is fully equipped: oven, hob, dishwasher, Dolce Gusto coffee machine, kettle, and the fondue and raclette set for your first evening. You'll find oil, vinegar, salt, pepper, coffee and tea.\n\nPans are in the drawer under the oven. Please wash the dishes before you leave.\n\n*The cuckoo clock chimes every hour.*"
+  }
+ },
+ {
+  "partie": "Maison",
+  "ordre": 13,
+  "slug": "poele",
+  "icone": "poele",
+  "nouveau": true,
+  "titre": {
+   "fr": "Poêle à bois",
+   "de": "Holzofen",
+   "en": "Wood stove"
+  },
+  "texte": {
+   "fr": "Le poêle à bois est à votre disposition, avec le bois et les allume-feu fournis. C'est le seul feu autorisé dans l'appartement : pas de bougies.\n\n*Le mode d'emploi détaillé arrive dès l'installation du poêle.*",
+   "de": "Der Holzofen steht Ihnen zur Verfügung, Holz und Anzünder sind vorhanden. Es ist das einzige erlaubte Feuer in der Wohnung: bitte keine Kerzen.\n\n*Die ausführliche Anleitung folgt, sobald der Ofen installiert ist.*",
+   "en": "The wood stove is yours to use, with wood and firelighters provided. It's the only fire allowed in the apartment: no candles, please.\n\n*Detailed instructions will follow once the stove is installed.*"
+  }
+ },
+ {
+  "partie": "Maison",
+  "ordre": 14,
+  "slug": "chauffage",
+  "icone": "chauffage",
+  "nouveau": false,
+  "titre": {
+   "fr": "Chauffage",
+   "de": "Heizung",
+   "en": "Heating"
+  },
+  "texte": {
+   "fr": "Le chauffage électrique se règle automatiquement. Vous pouvez l'ajuster à la main dans chaque pièce.",
+   "de": "Die Elektroheizung regelt sich automatisch. Sie können sie in jedem Raum von Hand anpassen.",
+   "en": "The electric heating runs automatically. You can adjust it by hand in each room."
+  }
+ },
+ {
+  "partie": "Maison",
+  "ordre": 15,
+  "slug": "tv",
+  "icone": "tv",
+  "nouveau": false,
+  "titre": {
+   "fr": "TV et salon",
+   "de": "TV und Wohnzimmer",
+   "en": "TV and living room"
+  },
+  "texte": {
+   "fr": "La TV Samsung The Frame donne accès à vos applications de streaming (Netflix, Apple TV+…). Pensez à vous déconnecter en partant. Pour les chaînes, ouvrez l'application Netplus TV.\n\nLe canapé se transforme en lit 140×200 cm : soulevez la banquette et tirez-la vers l'avant. Oreillers et couette sont rangés dessous.\n\nLa télécommande de la lampe de la salle à manger est contre le mur, à droite en entrant. Les chargeurs des lampes sans fil sont dans une boîte en plastique, dans le meuble du salon.",
+   "de": "Auf dem Samsung The Frame können Sie Ihre Streaming-Apps nutzen (Netflix, Apple TV+…). Bitte melden Sie sich vor der Abreise ab. Für die TV-Sender öffnen Sie die App Netplus TV.\n\nDas Sofa lässt sich in ein Bett von 140×200 cm verwandeln: Sitzfläche anheben und nach vorne ziehen. Kissen und Duvet liegen darunter.\n\nDie Fernbedienung der Esstischlampe hängt rechts beim Eingang an der Wand. Die Ladegeräte der Akkulampen sind in einer Plastikbox im Wohnzimmermöbel.",
+   "en": "The Samsung The Frame TV works with your streaming apps (Netflix, Apple TV+…). Remember to log out when you leave. For TV channels, open the Netplus TV app.\n\nThe sofa turns into a 140×200 cm bed: lift the seat and pull it forward. Pillows and duvet are stored underneath.\n\nThe remote for the dining room lamp is on the wall to the right as you come in. Chargers for the cordless lamps are in a plastic box in the living room cabinet."
+  }
+ },
+ {
+  "partie": "Maison",
+  "ordre": 16,
+  "slug": "skis",
+  "icone": "skis",
+  "nouveau": false,
+  "titre": {
+   "fr": "Local à skis",
+   "de": "Skiraum",
+   "en": "Ski room"
+  },
+  "texte": {
+   "fr": "Un petit local au rez-de-chaussée, partagé avec les deux autres appartements, accueille vos skis. La clé est accrochée au mur, à gauche en entrant dans l'appartement.",
+   "de": "Ein kleiner Raum im Erdgeschoss, den Sie mit den zwei anderen Wohnungen teilen, ist für Ihre Ski da. Der Schlüssel hängt links beim Eingang der Wohnung an der Wand.",
+   "en": "A small room on the ground floor, shared with the two other apartments, is there for your skis. The key hangs on the wall to the left as you enter the apartment."
+  }
+ },
+ {
+  "partie": "Maison",
+  "ordre": 17,
+  "slug": "dechets",
+  "icone": "dechets",
+  "nouveau": false,
+  "titre": {
+   "fr": "Déchets",
+   "de": "Abfall",
+   "en": "Rubbish"
+  },
+  "texte": {
+   "fr": "Un sac taxé officiel est fourni pour votre séjour : en Valais, seuls ces sacs sont acceptés. Le point de collecte (sacs taxés, verre, alu, papier, carton) est à 100 m de la maison, à côté du petit parking.\n\nMerci de vider vos déchets avant de partir.",
+   "de": "Ein offizieller Gebührensack ist für Ihren Aufenthalt bereitgestellt: Im Wallis werden nur diese Säcke angenommen. Die Sammelstelle (Gebührensäcke, Glas, Alu, Papier, Karton) ist 100 m vom Haus entfernt, beim kleinen Parkplatz.\n\nBitte entsorgen Sie Ihren Abfall vor der Abreise.",
+   "en": "One official taxed rubbish bag is provided for your stay: in Valais, only these bags are accepted. The collection point (taxed bags, glass, aluminium, paper, cardboard) is 100 m from the house, next to the small car park.\n\nPlease take your rubbish out before you leave."
+  }
+ },
+ {
+  "partie": "Maison",
+  "ordre": 18,
+  "slug": "securite",
+  "icone": "securite",
+  "nouveau": false,
+  "titre": {
+   "fr": "Sécurité et urgences",
+   "de": "Sicherheit und Notfall",
+   "en": "Safety and emergencies"
+  },
+  "texte": {
+   "fr": "Un extincteur est sous le lavabo de la salle de bains et une couverture anti-feu dans l'armoire de la cuisine. L'appartement est non-fumeur : un cendrier vous attend sur le balcon. Prudence dans les escaliers.\n\n• Police : [117](tel:117)\n• Pompiers : [118](tel:118)\n• Ambulance, urgences : [144](tel:144)\n• Tox Info Suisse (empoisonnement) : [145](tel:145)",
+   "de": "Ein Feuerlöscher steht unter dem Lavabo im Bad, eine Löschdecke im Küchenschrank. Die Wohnung ist Nichtraucher: Ein Aschenbecher steht auf dem Balkon. Vorsicht auf der Treppe.\n\n• Polizei : [117](tel:117)\n• Feuerwehr : [118](tel:118)\n• Ambulanz, Notfall : [144](tel:144)\n• Tox Info Suisse (Vergiftung) : [145](tel:145)",
+   "en": "There's a fire extinguisher under the bathroom sink and a fire blanket in the kitchen cupboard. The apartment is non-smoking: there's an ashtray on the balcony. Take care on the stairs.\n\n• Police : [117](tel:117)\n• Fire brigade : [118](tel:118)\n• Ambulance, emergency : [144](tel:144)\n• Tox Info Suisse (poisoning) : [145](tel:145)"
+  }
+ },
+ {
+  "partie": "Grimentz",
+  "ordre": 19,
+  "slug": "liens",
+  "icone": "liens",
+  "nouveau": false,
+  "titre": {
+   "fr": "Liens utiles",
+   "de": "Nützliche Links",
+   "en": "Useful links"
+  },
+  "texte": {
+   "fr": "• [Office du tourisme](https://www.valdanniviers.ch/)\n• [Remontées mécaniques](https://www.valdanniviers.ch/fr/Z15410/remontees-mecaniques)\n• [Agenda](https://www.valdanniviers.ch/fr/Z15382/agenda)\n• [Météo](https://www.valdanniviers.ch/fr/Z15113/meteo)",
+   "de": "• [Tourismusbüro](https://www.valdanniviers.ch/)\n• [Bergbahnen](https://www.valdanniviers.ch/fr/Z15410/remontees-mecaniques)\n• [Agenda](https://www.valdanniviers.ch/fr/Z15382/agenda)\n• [Wetter](https://www.valdanniviers.ch/fr/Z15113/meteo)",
+   "en": "• [Tourist office](https://www.valdanniviers.ch/)\n• [Ski lifts](https://www.valdanniviers.ch/fr/Z15410/remontees-mecaniques)\n• [What's on](https://www.valdanniviers.ch/fr/Z15382/agenda)\n• [Weather](https://www.valdanniviers.ch/fr/Z15113/meteo)"
+  }
+ },
+ {
+  "partie": "Grimentz",
+  "ordre": 20,
+  "slug": "restaurants",
+  "icone": "restaurants",
+  "nouveau": false,
+  "titre": {
+   "fr": "Nos restaurants préférés",
+   "de": "Unsere Lieblingsrestaurants",
+   "en": "Our favourite restaurants"
+  },
+  "texte": {
+   "fr": "• [Alpina](https://maps.app.goo.gl/XoXNmcCQXpMzTL5n9)\n• [Brasserie Flocons de Neige](https://maps.app.goo.gl/YERX6EtPbfkPeJTv6)\n• [La Table d'André](https://maps.app.goo.gl/8RYbMsWxUkL7ksM88)\n• [Crêperie À La Claire Fontaine](https://maps.app.goo.gl/CG8gN95K5VWiRY1q6)\n• [Espace Weisshorn](https://maps.app.goo.gl/3D7sbb1tvnApnhfu8) : Au sommet, avec rooftop et vue",
+   "de": "• [Alpina](https://maps.app.goo.gl/XoXNmcCQXpMzTL5n9)\n• [Brasserie Flocons de Neige](https://maps.app.goo.gl/YERX6EtPbfkPeJTv6)\n• [La Table d'André](https://maps.app.goo.gl/8RYbMsWxUkL7ksM88)\n• [Crêperie À La Claire Fontaine](https://maps.app.goo.gl/CG8gN95K5VWiRY1q6)\n• [Espace Weisshorn](https://maps.app.goo.gl/3D7sbb1tvnApnhfu8) : Auf dem Gipfel, mit Dachterrasse",
+   "en": "• [Alpina](https://maps.app.goo.gl/XoXNmcCQXpMzTL5n9)\n• [Brasserie Flocons de Neige](https://maps.app.goo.gl/YERX6EtPbfkPeJTv6)\n• [La Table d'André](https://maps.app.goo.gl/8RYbMsWxUkL7ksM88)\n• [Crêperie À La Claire Fontaine](https://maps.app.goo.gl/CG8gN95K5VWiRY1q6)\n• [Espace Weisshorn](https://maps.app.goo.gl/3D7sbb1tvnApnhfu8) : At the top, rooftop and view"
+  }
+ },
+ {
+  "partie": "Grimentz",
+  "ordre": 21,
+  "slug": "courses",
+  "icone": "courses",
+  "nouveau": false,
+  "titre": {
+   "fr": "Courses et produits du coin",
+   "de": "Einkaufen und Lokales",
+   "en": "Shopping and local food"
+  },
+  "texte": {
+   "fr": "• [Coop](https://maps.app.goo.gl/2GkkLodH7ZELp2Js9) : 7/7, de 7h à 19h\n• [Marché Villageois](https://maps.app.goo.gl/cYhpFoRH7LibV2Qw8) : Épicerie et terroir\n• [Boulangerie Salamin](https://maps.app.goo.gl/JLsk7XqQfrmNzRo28) : Goûtez la tourte à l'abricotine\n• [Boucherie](https://maps.app.goo.gl/vXZqKg5W62EN7yTA8) : Fondue anniviarde\n\n*En haute saison, la boulangerie et la boucherie ont un point de vente à 100 m de la maison.*",
+   "de": "• [Coop](https://maps.app.goo.gl/2GkkLodH7ZELp2Js9) : 7/7, 7 bis 19 Uhr\n• [Marché Villageois](https://maps.app.goo.gl/cYhpFoRH7LibV2Qw8) : Laden und Regionales\n• [Bäckerei Salamin](https://maps.app.goo.gl/JLsk7XqQfrmNzRo28) : Probieren Sie die Abricotine-Torte\n• [Metzgerei](https://maps.app.goo.gl/vXZqKg5W62EN7yTA8) : Fondue anniviarde\n\n*In der Hochsaison haben Bäckerei und Metzgerei eine Verkaufsstelle 100 m vom Haus.*",
+   "en": "• [Coop](https://maps.app.goo.gl/2GkkLodH7ZELp2Js9) : 7 days, 7am to 7pm\n• [Marché Villageois](https://maps.app.goo.gl/cYhpFoRH7LibV2Qw8) : Grocery and local produce\n• [Salamin bakery](https://maps.app.goo.gl/JLsk7XqQfrmNzRo28) : Try the abricotine tart\n• [Butcher](https://maps.app.goo.gl/vXZqKg5W62EN7yTA8) : Anniviers meat fondue\n\n*In high season, the bakery and the butcher have a shop 100 m from the house.*"
+  }
+ },
+ {
+  "partie": "Grimentz",
+  "ordre": 22,
+  "slug": "bars",
+  "icone": "bars",
+  "nouveau": false,
+  "titre": {
+   "fr": "Bars et après-ski",
+   "de": "Bars und Après-Ski",
+   "en": "Bars and après-ski"
+  },
+  "texte": {
+   "fr": "• [Le Grenier](https://maps.app.goo.gl/MR3S8sV7cMCfSrGG9) : Vins valaisans au verre\n• [Tsirouc Bar](https://maps.app.goo.gl/qNEHP7bmudeUQeP7A) : L'après-ski de Grimentz",
+   "de": "• [Le Grenier](https://maps.app.goo.gl/MR3S8sV7cMCfSrGG9) : Walliser Weine im Glas\n• [Tsirouc Bar](https://maps.app.goo.gl/qNEHP7bmudeUQeP7A) : Der Après-Ski von Grimentz",
+   "en": "• [Le Grenier](https://maps.app.goo.gl/MR3S8sV7cMCfSrGG9) : Valais wines by the glass\n• [Tsirouc Bar](https://maps.app.goo.gl/qNEHP7bmudeUQeP7A) : Grimentz après-ski"
+  }
+ },
+ {
+  "partie": "Grimentz",
+  "ordre": 23,
+  "slug": "sport",
+  "icone": "sport",
+  "nouveau": false,
+  "titre": {
+   "fr": "Magasins de sport",
+   "de": "Sportgeschäfte",
+   "en": "Sports shops"
+  },
+  "texte": {
+   "fr": "• [Do Sports](https://maps.app.goo.gl/9er7nrYxjHFjRZo2A)\n• [Epiney Sport](https://maps.app.goo.gl/hh388ZzCLe8gLCBS6)\n• [Valsport](https://maps.app.goo.gl/9N54nGpFoG7AnsdCA)\n\n*Location de skis et de vélos.*",
+   "de": "• [Do Sports](https://maps.app.goo.gl/9er7nrYxjHFjRZo2A)\n• [Epiney Sport](https://maps.app.goo.gl/hh388ZzCLe8gLCBS6)\n• [Valsport](https://maps.app.goo.gl/9N54nGpFoG7AnsdCA)\n\n*Ski- und Velovermietung.*",
+   "en": "• [Do Sports](https://maps.app.goo.gl/9er7nrYxjHFjRZo2A)\n• [Epiney Sport](https://maps.app.goo.gl/hh388ZzCLe8gLCBS6)\n• [Valsport](https://maps.app.goo.gl/9N54nGpFoG7AnsdCA)\n\n*Ski and bike rental.*"
+  }
+ },
+ {
+  "partie": "Grimentz",
+  "ordre": 24,
+  "slug": "pluie",
+  "icone": "pluie",
+  "nouveau": false,
+  "titre": {
+   "fr": "Quand il fait moins beau",
+   "de": "Bei schlechtem Wetter",
+   "en": "When the weather turns"
+  },
+  "texte": {
+   "fr": "Grimentz a un parcours de loisirs intérieur (trampoline, parc aventure, mur de grimpe) et un escape game. Piscines couvertes à Zinal et à St-Luc. [Activités indoor](https://www.valdanniviers.ch/fr/Z15208/indoor)\n\nLe spa Les Flocons d'Eau, dans le bâtiment de la Brasserie Flocons de Neige, se réserve à l'avance. [Les Flocons d'Eau](https://www.valdanniviers.ch/fr/P126057/a-faire/detente-et-bien-etre/les-flocons-d-eau-spa)",
+   "de": "Grimentz hat einen Indoor-Freizeitparcours (Trampolin, Abenteuerpark, Kletterwand) und ein Escape Game. Hallenbäder in Zinal und St-Luc. [Indoor-Aktivitäten](https://www.valdanniviers.ch/fr/Z15208/indoor)\n\nDas Spa Les Flocons d'Eau, im Gebäude der Brasserie Flocons de Neige, ist auf Reservation. [Les Flocons d'Eau](https://www.valdanniviers.ch/fr/P126057/a-faire/detente-et-bien-etre/les-flocons-d-eau-spa)",
+   "en": "Grimentz has an indoor leisure course (trampoline, adventure park, climbing wall) and an escape game. Indoor pools in Zinal and St-Luc. [Indoor activities](https://www.valdanniviers.ch/fr/Z15208/indoor)\n\nThe Les Flocons d'Eau spa, in the Brasserie Flocons de Neige building, is by booking. [Les Flocons d'Eau](https://www.valdanniviers.ch/fr/P126057/a-faire/detente-et-bien-etre/les-flocons-d-eau-spa)"
+  }
+ },
+ {
+  "partie": "Grimentz",
+  "ordre": 25,
+  "slug": "patinoire",
+  "icone": "patinoire",
+  "nouveau": false,
+  "titre": {
+   "fr": "Patinoire",
+   "de": "Eisbahn",
+   "en": "Ice rink"
+  },
+  "texte": {
+   "fr": "La patinoire naturelle est 100 m en dessous de la maison. Pas de location sur place : patins chez Do Sports ou Valsport. [Infos](https://www.valdanniviers.ch/fr/P121994/a-faire/patinoire-naturelle-de-grimentz)",
+   "de": "Die Natureisbahn liegt 100 m unterhalb des Hauses. Keine Vermietung vor Ort: Schlittschuhe bei Do Sports oder Valsport. [Infos](https://www.valdanniviers.ch/fr/P121994/a-faire/patinoire-naturelle-de-grimentz)",
+   "en": "The natural ice rink is 100 m below the house. No rental on site: skates at Do Sports or Valsport. [Info](https://www.valdanniviers.ch/fr/P121994/a-faire/patinoire-naturelle-de-grimentz)"
+  }
+ },
+ {
+  "partie": "Grimentz",
+  "ordre": 26,
+  "slug": "patrimoine",
+  "icone": "patrimoine",
+  "nouveau": false,
+  "titre": {
+   "fr": "Patrimoine",
+   "de": "Kulturerbe",
+   "en": "Heritage"
+  },
+  "texte": {
+   "fr": "La maison donne sur la place du village, avec l'ancien moulin à eau, l'ancienne scierie et le four banal. Le long de la Rue du Village, des plaquettes avec QR code racontent l'histoire des principaux bâtiments.\n\nÀ voir : la [Maison de Grand-Maman](https://www.valdanniviers.ch/fr/P108624/destination/culture-et-patrimoine/maison-de-grand-maman), un logement d'époque visible à travers une porte vitrée (Rue du Village 6), avec des visites guidées. Et pour un souvenir, La Dè Tott dans la rue principale.",
+   "de": "Das Haus liegt am Dorfplatz, mit der alten Wassermühle, der alten Sägerei und dem Gemeinschaftsbackofen. Entlang der Rue du Village erzählen Tafeln mit QR-Code die Geschichte der wichtigsten Gebäude.\n\nSehenswert: die [Maison de Grand-Maman](https://www.valdanniviers.ch/fr/P108624/destination/culture-et-patrimoine/maison-de-grand-maman), eine historische Wohnung, durch eine Glastür sichtbar (Rue du Village 6), mit Führungen. Und für ein Souvenir: La Dè Tott in der Hauptstrasse.",
+   "en": "The house looks onto the village square, with the old water mill, the old sawmill and the communal bread oven. Along the Rue du Village, plaques with QR codes tell the story of the main buildings.\n\nDon't miss the [Maison de Grand-Maman](https://www.valdanniviers.ch/fr/P108624/destination/culture-et-patrimoine/maison-de-grand-maman), a period home you can see through a glass door (Rue du Village 6), with guided tours. And for a souvenir, La Dè Tott on the main street."
+  }
+ }
+]
