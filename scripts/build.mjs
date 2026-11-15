@@ -33,7 +33,9 @@ for (const row of rows) {
   const todo = row.manual ? missing : (stale ? ['de', 'en'] : missing);
   if (!todo.length) continue;
   if (!hasDeepL() || LOCAL) {
-    console.log(`  ! ${row.slug} : traduction ${todo.join('/')} à faire (pas de clé DeepL), le français est affiché à la place`);
+    console.log(missing.length
+      ? `  ! ${row.slug} : traduction ${missing.join('/')} manquante (pas de clé DeepL), le français est affiché à la place`
+      : `  · ${row.slug} : le français a changé, l'allemand et l'anglais seront retraduits quand la clé DeepL sera ajoutée`);
     continue;
   }
   const props = {};
